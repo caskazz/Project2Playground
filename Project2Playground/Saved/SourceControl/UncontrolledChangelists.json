@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Repositories/Project2Playground/Project2Playground/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Repositories/Project2Playground/Project2Playground/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Repositories/Project2Playground/Project2Playground/Content/practice_level.umap",
+				"C:/Repositories/Project2Playground/Project2Playground/Content/WBP_ControlPanel.uasset"
 			]
 		}
 	]
