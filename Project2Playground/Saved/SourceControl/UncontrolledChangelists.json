@@ -5,6 +5,31 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/practice_level.umap",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Column/column.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Column/column1.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Cube_003.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Cube.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/Box.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Cube_001.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Cylinder.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/Lock.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Cylinder_001.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Cylinder_002.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Cylinder_003.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Cylinder_004.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Cube_002.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Cylinder_005.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Box_Metallic.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Box_BaseColor.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Lock_Normal.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Lock_BaseColor.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Box_Normal.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Lock_Metallic.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Box_BaseColor_Mat.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Lock_BaseColor_Mat.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Lock_Metallic_Mat.uasset",
+				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Box/FBX_Box_Box_Metallic_Mat.uasset",
 				"C:/Repositories/Project2Playground/Project2Playground/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Repositories/Project2Playground/Project2Playground/Content/practice_level.umap",
 				"C:/Repositories/Project2Playground/Project2Playground/Content/WBP_ControlPanel.uasset",
@@ -58,10 +83,7 @@
 				"C:/Repositories/Project2Playground/Project2Playground/Content/Assets/PropsForSimulation/People_Animations/sitting_mannequin.uasset",
 				"C:/Repositories/Project2Playground/Project2Playground/Content/Assets/PropsForSimulation/People_Animations/grey.uasset",
 				"C:/Repositories/Project2Playground/Project2Playground/Content/StarterContent/Materials/M_Black.uasset",
-				"C:/Repositories/Project2Playground/Project2Playground/Content/Assets/PropsForSimulation/PlaneScreenInverted.uasset",
-				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/practice_level.umap",
-				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Column/column.uasset",
-				"C:/Users/aniam/Documents/GitHub/Project2Playground/Project2Playground/Content/Assets/Column/column1.uasset"
+				"C:/Repositories/Project2Playground/Project2Playground/Content/Assets/PropsForSimulation/PlaneScreenInverted.uasset"
 			]
 		}
 	]
